@@ -444,6 +444,7 @@
 * [HServer](https://gitee.com/HServer/HServer)：HServer是一个基于Netty开发的一个功能强大、资源丰富、开发灵活、轻量级、低入侵、高并发的新型Web开发框架。
 * [YMP](https://gitee.com/suninformation/ymate-platform-v2)：YMP是一个非常简单、易用的轻量级Java应用开发框架，涵盖AOP、IoC、Web、ORM、Validation、Plugin、Serv、Cache等特性。
 * [Windward](https://github.com/Flmelody/windward)：Windward是一个Java轻量级Web框架。
+* [Kora](https://github.com/kora-projects/kora)：Kora是一个用于编写Java/Kotlin应用程序的框架，重点关注性能、效率和透明度。
 
 ## JSF框架
 
@@ -571,6 +572,8 @@
 * [PulseDB](https://github.com/feedzai/pdb)：PulseDB是一个用Java编写的数据库映射软件库，它提供对各种数据库实现的透明访问和操作，由Feedzai开源。
 * [Infobip Spring Data Querydsl](https://github.com/infobip/infobip-spring-data-querydsl)：Infobip Spring Data Querydsl使用户能够在Spring Data Repository之上利用Querydsl API的全部功能。
 * [MilvusPlus](https://gitee.com/dromara/MilvusPlus)：MilvusPlus是一个功能强大的Java库，旨在简化与Milvus向量数据库的交互，为开发者提供类似MyBatisPlus注解和方法调用风格的直观API，由dromara社区开源。
+* [FluentJdbc](https://github.com/zsoltherpai/fluent-jdbc)：FluentJdbc是一个用于方便原生SQL查询的Java库。
+* [Elsql](https://github.com/OpenGamma/ElSql)：ElSql允许SQL从Java应用程序外部化。
 
 ## Mybatis生态
 
@@ -1455,6 +1458,7 @@
 * [EazyBuilder](https://github.com/iSoftStoneGroup/EazyBuilder)：一套完整的云原生架构下的DevOps平台项目。
 * [OpsCloud4](https://github.com/ixrjog/opscloud4)：用于云上运维的工具，提供持续交付、多实例动态数据源、堡垒机等功能。
 * [SREWorks](https://github.com/alibaba/SREWorks)：SREWorks专注于以应用为中心的开发模式，提供一站式云原生数智化运维SaaS管理套件，由阿里开源。
+* [CacheCloud](https://github.com/sohutv/cachecloud)：CacheCloud是一个Redis云管理平台，支持Redis多种架构高效管理、有效降低大规模Redis运维成本，提升资源管控能力和利用率，由搜狐开源。
 * [WGCLOUD](https://github.com/tianshiyeben/wgcloud)：Linux运维监控工具，支持系统硬件信息、内存、CPU、温度、磁盘空间及IO、硬盘smart、系统负载、网络流量等监控。
 * [MoSKito](https://github.com/anotheria/moskito)：可用于监控Java Web应用程序性能和行为的开源系统。
 * [Choerodon](https://gitee.com/choerodon/choerodon)：全场景效能平台，提供体系化方法论和协作、测试、DevOps及容器工具。
@@ -1895,7 +1899,7 @@
 * [Stocator](https://github.com/CODAIT/stocator)：Stocator是Apache Spark对象存储的高性能连接器，通过利用对象存储语义来实现性能，由IBM开源。
 * [MR4C](https://github.com/google/mr4c)：MR4C是一个允许你在Hadoop执行框架内运行本机代码的框架，由Google开源。
 * [Apache Tajo](https://github.com/apache/tajo)：Apache Tajo是Hadoop的开源分布式数据仓库框架，最初由韩国基础设施公司Gruter开发。
-* [Apache Airavata](https://github.com/apache/airavata)：Apache Airavata是一个软件框架，用于在分布式计算资源(包括本地集群、超级计算机、国家电网、学术和商业云)上执行和管理计算性任务。
+* [Apache Airavata](https://github.com/apache/airavata)：Apache Airavata是一个软件框架，用于在分布式计算资源(包括本地集群、超级计算机、国家电网、学术和商业云)上执行和管理计算性任务，最初由印第安纳大学开发。
 * [LarkMidTable](https://gitee.com/LarkMidTable/LarkMidTable)：LarkMidTable是一站式开源的数据中台，实现元数据管理，数据仓库开发，数据质量管理，数据的可视化，实现高效赋能数据前台并提供数据服务的产品。
 * [云雀](https://gitee.com/LarkMidTable/yunque)：云雀是一款数据集成工具，实现异构数据源的整合，帮助企业构建数据仓库、数据湖等应用架构。
 * [DeltaFi](https://gitlab.com/deltafi/deltafi)：DeltaFi是一个灵活、轻量代码的数据转换和标准化平台。
@@ -1906,6 +1910,7 @@
 * [Apache Gluten](https://github.com/apache/incubator-gluten)：Gluten是一个中间层，负责将基于JVM的SQL引擎的执行卸载到本机引擎，由Intel和Kyligence开源。
 * [Maha](https://github.com/yahoo/maha)：快速报告API开发的框架，开箱即用地支持Druid的高基数维度查找，由Yahoo开源。
 * [Apache DataFusion Comet](https://github.com/apache/datafusion-comet)：Apache DataFusion Comet是一个Apache Spark插件，它使用Apache DataFusion作为本机运行时，以实现查询效率和查询运行时方面的改进，由Apple开源。
+* [XL-LightHouse](https://github.com/xl-xueling/xl-lighthouse)：XL-LightHouse是一套支持超大数据量、支持超高并发的通用型流式大数据统计系统。
 
 ## 数据可视化
 
@@ -3153,6 +3158,7 @@
 * [TwTasks](https://github.com/transferwise/tw-tasks-executor)：一个以分布式方式执行任意异步代码并具有完全一致性保证的框架。
 * [ConcurrencyFreaks](https://github.com/pramalhe/ConcurrencyFreaks)：并发数据结构和同步机制的库。
 * [Dexecutor](https://github.com/dexecutor/dexecutor-core)：Dexecutor是一个非常轻量级的框架，可以以可靠的方式执行依赖/独立任务，为此它提供了最少的API。
+* [Rqueue](https://github.com/sonus21/rqueue)：Rqueue是一个为Spring框架构建的异步任务执行器，基于Redis支持的Spring框架的消息传递库。
 
 ## Actor模型
 
@@ -3436,6 +3442,7 @@
 * [Erupt](https://gitee.com/erupt/erupt)：Erupt是一个低代码全栈类框架，使用Java注解动态生成页面以及增删改查、权限控制等后台功能。
 * [ApiBoot](https://gitee.com/minbox-projects/api-boot)：ApiBoot是接口服务的落地解决方案，提供了一系列开箱即用的组件，通过封装来简化主流第三方框架的集成。
 * [Appsmith](https://github.com/appsmithorg/appsmith)：用于构建管理面板、内部工具和仪表板的平台。
+* [Openkoda](https://github.com/openkoda/openkoda)：即用型开发平台，可加速构建业务应用程序和内部工具的过程。
 * [Abixen Platform](https://github.com/abixen/abixen-platform)：Abixen是一个基于微服务的软件平台，用于构建企业应用程序，通过创建特定的微服务并通过提供的CMS集成来提供功能。
 * [VLife](https://gitee.com/wwwlike/vlife)：VLife是一套采用前后端分离(Java + React)架构的企业级低代码研发平台。
 * [SmartAdmin](https://gitee.com/lab1024/smart-admin)：SmartAdmin是1024创新实验室使用Spring Boot 2和Vue 3开发出的一套简洁、易用的低代码中后台解决方案。
@@ -3625,6 +3632,7 @@
 * [HY Common Report](https://github.com/HY-Org/hy.common.report)：报表、Excel操作类库。
 * [DsExcel Java](https://github.com/GrapeCity/DsExcel-Java)：高速Java Excel电子表格API库。
 * [Excel Boot](https://github.com/programmeres/excel-boot)：Excel-Boot是一款Excel导入导出解决方案组成的轻量级开源组件。
+* [MemPOI](https://github.com/firegloves/MemPOI)：使用Apache POI简化从数据库导出到Excel文件的库。
 
 #### CSV库
 
@@ -3814,7 +3822,6 @@
 * [jOOR](https://github.com/jOOQ/jOOR)：jOOR是用于反射的流式API库，可以以更直观的方式访问Class类结构。
 * [ReflectASM](https://github.com/EsotericSoftware/reflectasm)：ReflectASM是一个非常小的Java库，它通过使用代码生成来提供高性能反射。
 * [Objenesis](https://github.com/easymock/objenesis)：Objenesis是一个专门用于在创建对象时绕过构造函数的库。
-* [Apache Commons Beanutils](https://github.com/apache/commons-beanutils)：Apache Commons BeanUtils提供了一个易于使用但灵活的反射和内省包装器。
 * [Mirror](https://github.com/Genymobile/mirror)：Java和Android的轻松反射。
 * [FEST-Reflect](https://github.com/alexruiz/fest-reflect)：FEST-Reflect提供了直观、紧凑且类型安全的流式API，使Java反射非常易于使用：不再需要强制转换、检查异常、PriviledgedActions或setAccessible调用。
 * [Lambda-Factory](https://github.com/Hervian/lambda-factory)：Lambda-Factory是一个Java实用程序项目，它提供了基于反射的方法调用的快速替代方案。
@@ -3859,7 +3866,7 @@
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel)：Semantic Kernel是微软开源的SDK，它将OpenAI、Azure OpenAI和Hugging Face等大语言模型(LLM)与C#、Python和Java等传统编程语言集成在一起。
 * [Spring AI](https://github.com/spring-projects-experimental/spring-ai)：Spring AI项目为开发AI应用程序提供了Spring友好的API和抽象。
 * [LangChain Java](https://github.com/HamaWhiteGG/langchain-java)：Java版LangChain，同时赋能LLM大数据。
-* [Artemis](https://github.com/ls1intum/Artemis)：Artemis通过对编程练习、测验、建模任务等的即时、个人反馈，将交互式学习带入生活。
+* [Artemis](https://github.com/ls1intum/Artemis)：Artemis通过对编程练习、测验、建模任务等的即时、个人反馈，将交互式学习带入生活，由慕尼黑工业大学开源。
 * [Langtorch](https://github.com/Knowly-ai/langtorch)：使用Java构建可组合的LLM应用程序和工作流。
 * [EdgeChains](https://github.com/arakoodev/EdgeChains)：EdgeChains.js是一种用于生产友好的生成式AI的语法。
 * [Jlama](https://github.com/tjake/Jlama)：LLM推理引擎的纯Java实现。
@@ -4692,6 +4699,7 @@
 * [Orika](https://github.com/orika-mapper/orika)：Orika是一种Java Bean映射框架，可将数据从一个对象递归复制到另一个对象。
 * [EasyMapper](https://github.com/EasyMapper/EasyMapper)：EasyMapper是一个易于使用的Java对象映射库，旨在简化表示域中对象的模型之间映射值的过程。
 * [JMapper](https://github.com/jmapper-framework/jmapper-core)：集优雅、高性能和稳健性于一体的Java Bean映射器。
+* [Apache Commons Beanutils](https://github.com/apache/commons-beanutils)：Apache Commons BeanUtils提供了一个易于使用但灵活的反射和内省包装器。
 * [Selma](https://github.com/xebia-france/selma)：可以在编译时生成Java代码处理字段到字段映射的注解处理器。
 * [BeanMapper](https://github.com/42BV/beanmapper)：Beanmapper是一个Java库，用于将不同的Java类映射为相似的名称。
 * [Tamper](https://github.com/alibaba/tamper)：Tamper是一款处理Bean/Map进行属性复制映射的工具，支持递归、集合等深度映射，由阿里开源。
@@ -5076,9 +5084,9 @@
 * [Lombok](https://github.com/projectlombok/lombok)：Lombok是对Java语法非常有用的补充，消除大量样板代码。
 * [Immutables](https://github.com/immutables/immutables)：用于创建不可变对象和构建器的注解处理器。
 * [Derive4j](https://github.com/derive4j/derive4j)：Java 8注解处理器，用于派生代数数据类型构造函数、模式匹配等。
-* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)：快速的Android开发，维护方便。
+* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)：AndroidAnnotations是一个开源框架，可加速Android开发。
 * [Annotations](https://github.com/JetBrains/java-annotations)：一组可在基于JVM的语言中使用的Java注解，由JetBrains开源。
-* [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)：一个简单、基于注解的库，用于在Android上更好地处理深度链接，，由Airbnb开源。
+* [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)：DeepLinkDispatch提供了一个声明式的、基于注解的API来定义应用程序深度链接，由Airbnb开源。
 * [Compile Testing](https://github.com/google/compile-testing)：javac和注解处理器的测试工具，由Google开源。
 * [PaperParcel](https://github.com/grandstaish/paperparcel)：自动生成Java和Kotlin的Parcelable实现。
 * [RecordBuilder](https://github.com/Randgalt/record-builder)：Java记录的记录构建器。
@@ -5184,10 +5192,9 @@
 
 ## 集群管理
 
-* [Apache Aurora](https://github.com/apache/aurora)：一个Mesos框架，用于长时间运行服务和定时任务，由Twitter开源。
+* [Apache Aurora](https://github.com/apache/aurora)：Aurora是一个用于长期运行服务和cron作业的Mesos框架，由Twitter开源。
 * [Chronos](https://github.com/mesos/chronos)：Chronos是cron的替代品，它是一个分布式容错调度程序，运行在Apache Mesos之上，可用于作业编排。
-* [Singularity](https://github.com/HubSpot/Singularity)：一种API和Web应用程序，用于运行和调度Mesos任务，包括长时间运行的进程、计划作业和一次性任务。
-* [CacheCloud](https://github.com/sohutv/cachecloud)：搜狐视频Redis私有云平台：支持Redis多种架构高效管理、有效降低大规模Redis运维成本，提升资源管控能力和利用率。
+* [Singularity](https://github.com/HubSpot/Singularity)：Singularity是一种API和Web应用程序，用于运行和调度Apache Mesos任务，包括长时间运行的进程、计划作业和一次性任务。
 * [MSEC](https://github.com/Tencent/MSEC)：集群海量服务引擎，由腾讯开源。
 * [Haven](https://github.com/codeabovelab/haven-platform)：Haven是一个Docker集群管理系统，用户可以通过用户友好且功能强大的用户界面和命令行工具控制整个平台。
 * [CorfuDB](https://github.com/CorfuDB/CorfuDB)：围绕共享日志抽象设计的一致性平台。
@@ -5739,6 +5746,7 @@
 * [Ree6](https://github.com/Ree6-Applications/Ree6)：Ree6是一款由Presti维护的一体化Discord机器人。
 * [Spectra](https://github.com/jagrosh/Spectra)：Spectra是一款私人、多用途、娱乐性和实用性的Discord机器人。
 * [Shiro](https://github.com/MisakaTAT/Shiro)：基于OneBot协议的QQ机器人快速开发框架。
+* [Simple Robot](https://github.com/simple-robot/simpler-robot)：Simple Robot是一个基于Kotlin协程的多平台Bot风格高性能异步事件调度框架，异步高效、Java友好。
 
 ## 安卓库
 
@@ -5805,6 +5813,7 @@
 * [AWT](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/awt/package-summary.html)：AWT是Java最初的依赖于平台的窗口、图形和用户界面小部件工具包，早于Swing。
 * [Yoga](https://github.com/facebook/yoga)：Yoga是一个可嵌入的高性能Flexbox布局引擎，具有多种语言的绑定，由Facebook开源。
 * [SwingX](https://github.com/arotenberg/swingx)：基于Swing，其使命是为Swing创建丰富的组件。
+* [NetBeans Platform](https://netbeans.apache.org/tutorial/main/kb/docs/platform/)：NetBeans Platform是一个广泛的Java框架，可以在其上构建大型桌面应用程序。
 * [JGoodies](https://www.jgoodies.com/)：JGoodies提供免费软件、产品、设计和服务，帮助你高效地使用Java桌面。
 * [QtJambi](https://github.com/OmixVisualization/qtjambi)：QtJambi是Java编程语言的Qt绑定，最初由Qt公司的前身Trolltech开发。
 * [Apache Pivot](https://github.com/apache/pivot)：Apache Pivot是一个用Java构建丰富互联网应用程序的平台，其中WTK工具包是它的图形组件，由VMware开源。
@@ -6241,7 +6250,7 @@
 * [DSBridge Android](https://github.com/wendux/DSBridge-Android)：一个现代的跨平台JavaScript桥梁，通过它你可以在JavaScript和Native之间同步或异步调用彼此的函数。
 * [RIBs](https://github.com/uber/RIBs)：RIB是Uber的跨平台移动架构框架。
 * [Multi-OS Engine](https://multi-os-engine.org/)：用于开发原生移动(iOS、Android等)应用程序的开源跨平台引擎。
-* [MobileUI](https://mobileui.dev/)：MobileUI是第一个适用于iOS和Android的基于Java的本机UI框架。
+* [MobileUI](https://mobileui.dev/)：MobileUI是第一个适用于iOS和Android的基于Java的原生UI框架。
 * [Hummer](https://github.com/didi/Hummer)：Hummer是一套高性能高可用的跨端开发框架，一套代码可以同时支持开发Android和iOS应用，由滴滴开源。
 
 ## JVM代理
@@ -7232,6 +7241,7 @@
 * [RSS Recipes](https://github.com/Netflix/recipes-rss)：使用多个Netflix OSS组件的RSS阅读器食谱。
 * [RSS Reader](https://github.com/w3stling/rssreader)：一个简单的Java库，用于读取RSS和Atom提要。
 * [Makagiga](https://github.com/kdt/makagiga)：Makagiga是一款开源、易于使用的便携式应用程序，用于执行各种任务，例如待办事项列表、文本编辑或RSS阅读。
+* [RSS Parser](https://github.com/prof18/RSS-Parser)：RSS Parser是一个用于解析RSS和Atom提要的Kotlin多平台库，支持Android、iOS和JVM。
 
 ## SSE
 
@@ -8037,6 +8047,7 @@
 * [Sortpom Maven Plugin](https://github.com/Ekryd/sortpom)：通过格式化XML并按预定义的顺序组织XML部分来帮助用户对pom.xml进行排序的Maven插件。
 * [Jasmine Maven Plugin](https://github.com/searls/jasmine-maven-plugin)：用于执行Jasmine Specs的Maven插件。
 * [GMavenPlus](https://github.com/groovy/GMavenPlus)：GMavenPlus是GMaven的重写版本，GMaven是一个Maven插件，允许你将Groovy集成到Maven项目中。
+* [Mvnpm](https://github.com/mvnpm/mvnpm)：Mvnpm允许直接从Maven或Gradle项目使用NPM Registry包作为依赖。
 
 ## Gradle插件
 
