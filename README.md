@@ -9,7 +9,7 @@
 - [Web框架](#Web框架)
 - [JSF框架](#JSF框架)
 - [REST框架](#REST框架)
-- [Data API](#Data API)
+- [Data API](#DataAPI)
 - [ORM框架](#ORM框架)
 - [持久层库](#持久层库)
 - [Mybatis生态](#Mybatis生态)
@@ -497,7 +497,7 @@
 * [AceQL HTTP](https://github.com/kawansoft/aceql-http)：AceQL HTTP是一个类似REST的API库，允许你从任何支持HTTP的设备通过HTTP访问远程SQL数据库。
 * [Conjure Java Runtime](https://github.com/palantir/conjure-java-runtime)：该项目提供了一组固定的库，用于定义和创建RESTish/RPC服务器和客户端，基于Feign作为客户端，以Dropwizard/Jersey和JAX-RS服务定义作为服务器，由Palantir开源。
 
-## Data API
+## DataAPI
 
 * [DB2Rest](https://github.com/kdhrubo/db2rest)：DB2Rest是一个现代低代码REST Data API平台，可以轻松构建智能应用程序。
 * [Spring Data REST](https://github.com/spring-projects/spring-data-rest)：该项目的目标是提供一种灵活且可配置的机制来编写可以通过HTTP公开的简单服务。
